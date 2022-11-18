@@ -34,5 +34,7 @@ Um Projeto completo, com front e back-end, no front foi usado reactJs, já no ba
 
 - No `terminal` execute `npm install`
 
+- mude o nome da pasta `.env.example` para `.env`
+
 - Seguido por `npm run dev`
 
